@@ -56,3 +56,9 @@ git status
 ```
 git remote add origin <server>
 ```
+
+# List all currently configured remote repositories
+
+```
+git remote -v
+```
