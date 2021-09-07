@@ -50,3 +50,9 @@ git push origin <branch name>
 ```
 git status
 ```
+
+# Connect to a remote repository
+
+```
+git remote add origin <server>
+```
