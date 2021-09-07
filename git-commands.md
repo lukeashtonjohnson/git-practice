@@ -98,3 +98,33 @@ git push origin --delete <remote-branch-name>
 ```
 git merge <branch name>
 ```
+
+# Stashing changes
+
+```
+git stash save "optional message for yourself"
+```
+
+# View Stashed changes
+
+```
+git stash list
+```
+
+# Applying Stashed changes and remove from stash
+
+```
+git stash pop
+```
+
+# Delete Stashed changes without applying them
+
+```
+git stash drop
+```
+
+# Clear the entire Stash
+
+```
+git stash clear
+```
