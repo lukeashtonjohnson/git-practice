@@ -62,3 +62,39 @@ git remote add origin <server>
 ```
 git remote -v
 ```
+
+# Create new branch and switch to it
+
+```
+git checkout -b <branch name>
+```
+
+# switch from one branch to another branch
+
+```
+git checkout <branch name>
+```
+
+# List all branches
+
+```
+git branch
+```
+
+# Delete the featured branch (Locally)
+
+```
+git branch -D <local-branch>
+```
+
+# Delete the featured branch (Remotely)
+
+```
+git push origin --delete <remote-branch-name>
+```
+
+# Merge one branch into another branch
+
+```
+git merge <branch name>
+```
