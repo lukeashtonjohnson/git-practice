@@ -32,3 +32,21 @@ git add <filename>
 git add *
 git add .
 ```
+
+# Commit your changes
+
+```
+git commit -m "commit message"
+```
+
+# Push files up to github
+
+```
+git push origin <branch name>
+```
+
+# Check the status of your work
+
+```
+git status
+```
