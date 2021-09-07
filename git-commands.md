@@ -12,3 +12,15 @@ git config --global user.email "Your Email address"
 ```
 git init
 ```
+
+# Checkout a repository (Locally)
+
+```
+git clone /path/to/repository
+```
+
+# Checkout a repository (Remote User)
+
+```
+git clone username@host:/path/to/repository
+```
